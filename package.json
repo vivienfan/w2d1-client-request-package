@@ -1,0 +1,22 @@
+{
+  "name": "client-request-package",
+  "version": "1.0.0",
+  "description": "This project creates HTTP cleint by using Node.js request HTTP package, which simplifies HTTP requests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivienfan/w2d1-client-request-package.git"
+  },
+  "author": "Vivien Fan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivienfan/w2d1-client-request-package/issues"
+  },
+  "homepage": "https://github.com/vivienfan/w2d1-client-request-package#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
